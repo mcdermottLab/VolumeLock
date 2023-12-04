@@ -10,7 +10,7 @@ With Version 1.2 the locked volume setting will be saved in User Preferences. Th
 
 ## Installation
 
-1. Click "Latest Release" and download VolumeLock.app.zip
+1. Click "Releases" and from the Latest release, download VolumeLock.app.zip
 
 2. Open the zip and move VolumeLock.app to Applications
 
