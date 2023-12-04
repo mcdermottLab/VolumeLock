@@ -1,5 +1,5 @@
 # VolumeLock
-OS X Objective-C Status Bar app that locks the currently set audio volume level.
+MacOS Objective-C Status Bar app that locks the currently set audio volume level.
 
 VolumeLock works by reading audio device properties, and setting up listeners for changes. If a user changes the volume setting, VolumeLock immediately changes it back to the locked setting.
 
